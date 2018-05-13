@@ -1,0 +1,8 @@
+<ASD013_Gearing_1945_MidBack.model>
+	<parent>	content/gameplay/usa/ship/destroyer/ASD034_Gearing_Space/lods/ASD034_Gearing_Space_MidBack_lod1	</parent>
+	<extent>	10.0000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	content/gameplay/usa/ship/destroyer/ASD034_Gearing_Space/ASD034_Gearing_Space_MidBack	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</ASD013_Gearing_1945_MidBack.model>

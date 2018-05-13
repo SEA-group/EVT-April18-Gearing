@@ -1,0 +1,13 @@
+<AGA003_20mm_Oerlikon_MK4.model>
+	<castsShadow>	false	</castsShadow>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.046690 -0.000000 -0.076318	</min>
+		<max>	0.046690 0.134394 0.078013	</max>
+	</visibilityBox>
+	<extent>	2.000000	</extent>
+	<parent>	content/gameplay/usa/gun/aaircraft/AGA505_20mm_Oerlikon_MK4_Space/lods/AGA505_20mm_Oerlikon_MK4_Space_lod1	</parent>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	content/gameplay/usa/gun/aaircraft/AGA505_20mm_Oerlikon_MK4_Space/AGA505_20mm_Oerlikon_MK4_Space	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</AGA003_20mm_Oerlikon_MK4.model>
