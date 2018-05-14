@@ -2,12 +2,12 @@
 	<castsShadow>	false	</castsShadow>
 	<materialNames />
 	<extent>	3.000000	</extent>
-	<parent>	content/gameplay/usa/director/AD302_Director_Mk37/lods/AD302_Director_Mk37_lod1	</parent>
+	<parent>	PnFMods/SEA_EVT_April18_Gearing/ASD013_Gearing_1945/director/AD001_Director_Mk37_lod1	</parent>
 	<visibilityBox>
 		<min>	-0.168469 0.000000 -0.146639	</min>
 		<max>	0.168469 0.168776 0.150858	</max>
 	</visibilityBox>
 	<exporter>	1.6	</exporter>
-	<nodefullVisual>	content/gameplay/usa/director/AD302_Director_Mk37/AD302_Director_Mk37	</nodefullVisual>
+	<nodefullVisual>	PnFMods/SEA_EVT_April18_Gearing/ASD013_Gearing_1945/director/AD001_Director_Mk37	</nodefullVisual>
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </AD001_Director_Mk37.model>
